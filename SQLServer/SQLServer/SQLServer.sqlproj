@@ -66,6 +66,14 @@
     <Folder Include="dbo\Tables\01_07" />
     <Folder Include="dbo\Tables\01_14" />
     <Folder Include="dbo\Tables\01_15" />
+    <Folder Include="dbo\Tables\01_16" />
+    <Folder Include="dbo\Tables\01_17" />
+    <Folder Include="dbo\Tables\01_18" />
+    <Folder Include="dbo\Tables\01_19" />
+    <Folder Include="dbo\Tables\01_20" />
+    <Folder Include="dbo\Tables\01_21" />
+    <Folder Include="dbo\Tables\01_22" />
+    <Folder Include="dbo\Tables\02_03" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Notes\01_08화_SQL_서버_연결.txt" />
@@ -75,5 +83,13 @@
     <Build Include="dbo\Tables\01_07\Questions.sql" />
     <Build Include="dbo\Tables\01_14\SQLQuery 기초.sql" />
     <Build Include="dbo\Tables\01_15\Logs.sql" />
+    <Build Include="dbo\Tables\01_16\Logs.sql" />
+    <Build Include="dbo\Tables\01_17\Users.sql" />
+    <Build Include="dbo\Tables\01_18\Couese.sql" />
+    <Build Include="dbo\Tables\01_19\Courses.sql" />
+    <Build Include="dbo\Tables\01_20\Schedule.sql" />
+    <Build Include="dbo\Tables\01_21\Schedule.sql" />
+    <Build Include="dbo\Tables\01_22\Categories.sql" />
+    <Build Include="dbo\Tables\02_03\MyTable.sql" />
   </ItemGroup>
 </Project>
