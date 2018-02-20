@@ -1,0 +1,8 @@
+사용자 관리
+	로그인 사용자
+		1. Windows Server 최고관리자 : Administrator
+		2. SQL Server 최고관리자 : sa
+		3. 일반 계정
+			1. 아이디 : My
+			2. 암호 : Pass
+			3. 권한 : MyDatabase에 모든 권한(db_owner)

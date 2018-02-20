@@ -1,0 +1,10 @@
+SQL 구문
+	1. DDL
+		1. Create : 구조(스키마) 생성
+		2. Alter : 구조 수정
+		3. Drop : 구조 삭제
+	2. DML
+		1. Insert : 데이터 삽입
+		2. Select : 데이터 조회(출력)
+		3. Update : 데이터 수정
+		4. Delete : 데이터 삭제

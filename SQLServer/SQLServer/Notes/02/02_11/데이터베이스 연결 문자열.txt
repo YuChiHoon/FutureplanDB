@@ -1,0 +1,2 @@
+데이터베이스 연결 문자열(Connection String)
+"server=.; database=A; uid=B; pwd=C;"

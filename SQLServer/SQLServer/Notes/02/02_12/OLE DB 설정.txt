@@ -1,0 +1,20 @@
+OLE DB 설정 : 원격 접속 테스트
+DB 접속을 위한 4가지 필수 조건(항목) : 커넥션 스트링(Connection String)
+	Server /Data Source
+	Database / Initial Catalog
+	User ID / Uid
+	Password / Pwd
+
+데이터베이스 연결문자열 : 닷넷 프로그래밍에서 필요
+	1. ConnectionString =
+	   "Server=(local)\SQLExpress;Database=MyDatabase;
+	   UserID=My; Password= pass;";
+	
+	2. ConnectionString =
+	   "DataSource=(local)\SQLExpress;IntialCatalog=MyDatabase;
+	   uid=My; pwd= pass;";
+	
+	3. UDL 파일을 만들어서 데이터베이스 연결문자열을 생성
+	   *.txt -> 확장자를 *.udl로 변경 -> 속성 -> 4가지 정보 기록 후 저장 -> udl 파일을 노트패드로 열면 데이터베이스 연결문자열을 얻을 수 있다.
+	   1) ASP3.0 까지는 (.NET 이전버전) Provider절 사용
+	   2) ASP.NET 이후로(.NET 이후버전) Provider절 제외해서 사용
