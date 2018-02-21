@@ -93,6 +93,18 @@
     <Folder Include="Notes\02\02_05" />
     <Folder Include="Notes\02\02_12" />
     <Folder Include="Notes\02\02_14" />
+    <Folder Include="dbo\Tables\03" />
+    <Folder Include="dbo\Tables\03\03_01" />
+    <Folder Include="dbo\Tables\03\03_02" />
+    <Folder Include="dbo\Tables\03\03_04" />
+    <Folder Include="dbo\Tables\03\03_05" />
+    <Folder Include="dbo\Tables\03\03_06" />
+    <Folder Include="dbo\Tables\03\03_07" />
+    <Folder Include="dbo\Tables\03\03_08" />
+    <Folder Include="dbo\Tables\03\03_09" />
+    <Folder Include="dbo\Tables\03\03_10" />
+    <Folder Include="dbo\Tables\03\03_11" />
+    <Folder Include="dbo\Tables\03\03_12" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Notes\01\01_10\01_10화_SQL Server에서 반드시 알아야 할 사항 10가지.txt" />
@@ -130,5 +142,16 @@
     <Build Include="dbo\Tables\02\02_17\현재 데이터베이스의 주요 속성.sql" />
     <Build Include="dbo\Tables\02\02_18\FrontBoard_제약조건.sql" />
     <Build Include="dbo\Tables\02\02_19\Categories_제약조건.sql" />
+    <Build Include="dbo\Tables\03\03_01\게시판 테이블 설계.sql" />
+    <Build Include="dbo\Tables\03\03_02\첨부 파일 관리자.sql" />
+    <Build Include="dbo\Tables\03\03_04\Select문 주요 키워드.sql" />
+    <Build Include="dbo\Tables\03\03_05\전체 쿼리문 연습.sql" />
+    <Build Include="dbo\Tables\03\03_06\Insert문 다중 행 입력하기.sql" />
+    <Build Include="dbo\Tables\03\03_07\테이블 별칭.sql" />
+    <Build Include="dbo\Tables\03\03_08\개체명 호출시 범위 지정.sql" />
+    <Build Include="dbo\Tables\03\03_09\특정한 테이블에서 값을 가져와 복사하기.sql" />
+    <Build Include="dbo\Tables\03\03_10\Where절 Select문의 조건 처리.sql" />
+    <Build Include="dbo\Tables\03\03_11\Top 쿼리 문.sql" />
+    <Build Include="dbo\Tables\03\03_12\Group By 절과 Having 절.sql" />
   </ItemGroup>
 </Project>
