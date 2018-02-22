@@ -105,6 +105,16 @@
     <Folder Include="dbo\Tables\03\03_10" />
     <Folder Include="dbo\Tables\03\03_11" />
     <Folder Include="dbo\Tables\03\03_12" />
+    <Folder Include="중요" />
+    <Folder Include="dbo\Tables\03\03_13" />
+    <Folder Include="dbo\Tables\03\03_14" />
+    <Folder Include="dbo\Tables\03\03_15" />
+    <Folder Include="dbo\Tables\03\03_16" />
+    <Folder Include="dbo\Tables\03\03_17" />
+    <Folder Include="dbo\Tables\03\03_18" />
+    <Folder Include="dbo\Tables\03\03_19" />
+    <Folder Include="dbo\Tables\03\03_20" />
+    <Folder Include="dbo\Tables\03\03_21" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Notes\01\01_10\01_10화_SQL Server에서 반드시 알아야 할 사항 10가지.txt" />
@@ -153,5 +163,25 @@
     <Build Include="dbo\Tables\03\03_10\Where절 Select문의 조건 처리.sql" />
     <Build Include="dbo\Tables\03\03_11\Top 쿼리 문.sql" />
     <Build Include="dbo\Tables\03\03_12\Group By 절과 Having 절.sql" />
+    <Build Include="중요\Select문 주요 키워드.sql" />
+    <Build Include="중요\전체 쿼리문 연습.sql" />
+    <Build Include="중요\특정한 테이블에서 값을 가져와 복사하기.sql" />
+    <Build Include="중요\Where절 Select문의 조건 처리.sql" />
+    <Build Include="중요\Group By 절과 Having 절.sql" />
+    <Build Include="dbo\Tables\03\03_13\OFFSET-FETCH 필터.sql" />
+    <Build Include="중요\OFFSET-FETCH 필터.sql" />
+    <Build Include="dbo\Tables\03\03_14\조인문 연습.sql" />
+    <Build Include="중요\조인문 연습.sql" />
+    <Build Include="dbo\Tables\03\03_15\부서_사원_담당.sql" />
+    <Build Include="dbo\Tables\03\03_16\조인연습용쿼리문.sql" />
+    <Build Include="dbo\Tables\03\03_17\서브 쿼리문.sql" />
+    <Build Include="중요\서브 쿼리문.sql" />
+    <Build Include="dbo\Tables\03\03_18\UNION절과 UNIONALL절 비교.sql" />
+    <Build Include="dbo\Tables\03\03_19\집계함수.sql" />
+    <Build Include="dbo\Tables\03\03_20\참고_집계함수.sql" />
+    <Build Include="dbo\Tables\03\03_21\수학관련 함수.sql" />
+    <Build Include="중요\수학관련 함수.sql" />
+    <Build Include="중요\집계함수.sql" />
+    <Build Include="중요\UNION절과 UNIONALL절 비교.sql" />
   </ItemGroup>
 </Project>
