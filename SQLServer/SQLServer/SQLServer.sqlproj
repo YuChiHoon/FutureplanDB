@@ -115,6 +115,25 @@
     <Folder Include="dbo\Tables\03\03_19" />
     <Folder Include="dbo\Tables\03\03_20" />
     <Folder Include="dbo\Tables\03\03_21" />
+    <Folder Include="dbo\Tables\04" />
+    <Folder Include="dbo\Tables\04\02" />
+    <Folder Include="dbo\Tables\04\03" />
+    <Folder Include="dbo\Tables\04\06" />
+    <Folder Include="dbo\Tables\04\04" />
+    <Folder Include="dbo\Tables\04\05" />
+    <Folder Include="dbo\Tables\04\10" />
+    <Folder Include="dbo\Tables\04\11" />
+    <Folder Include="dbo\Tables\04\12" />
+    <Folder Include="dbo\Tables\04\07" />
+    <Folder Include="dbo\Tables\04\08" />
+    <Folder Include="dbo\Tables\04\09" />
+    <Folder Include="Notes\04" />
+    <Folder Include="Notes\04\11" />
+    <Folder Include="Notes\04\01" />
+    <Folder Include="dbo\Tables\03\03_22" />
+    <Folder Include="dbo\Tables\03\03_23" />
+    <Folder Include="dbo\Tables\03\03_24" />
+    <Folder Include="dbo\Tables\03\03_25" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Notes\01\01_10\01_10화_SQL Server에서 반드시 알아야 할 사항 10가지.txt" />
@@ -132,6 +151,8 @@
     <None Include="Notes\02\02_12\MyDatabase.udl" />
     <None Include="Notes\02\02_12\OLE DB 설정.txt" />
     <None Include="Notes\02\02_14\SQL 구문 DDL_DML.txt" />
+    <None Include="Notes\04\11\가상 테이블 뷰.txt" />
+    <None Include="Notes\04\01\Transact-SQL 문의 유형.txt" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\01\01_07\Questions.sql" />
@@ -183,5 +204,30 @@
     <Build Include="중요\수학관련 함수.sql" />
     <Build Include="중요\집계함수.sql" />
     <Build Include="중요\UNION절과 UNIONALL절 비교.sql" />
+    <Build Include="dbo\Tables\04\05\전체적인 T-SQL 정리.sql" />
+    <Build Include="dbo\Tables\04\03\T-SQL 구문.sql" />
+    <Build Include="dbo\Tables\04\02\조건문.sql" />
+    <Build Include="dbo\Tables\04\04\게시판 테이블 T-SQL로 예시문 만들기.sql" />
+    <Build Include="dbo\Tables\04\06\T-SQL 조건문.sql" />
+    <Build Include="dbo\Tables\04\07\Case문.sql" />
+    <Build Include="dbo\Tables\04\08\Exec 명령어 동적 SQL문 실행.sql" />
+    <Build Include="dbo\Tables\04\09\Exists문 설명.sql" />
+    <Build Include="dbo\Tables\04\10\테이블 변수 선언.sql" />
+    <Build Include="dbo\Tables\04\11\가상 뷰 테이블.sql" />
+    <Build Include="dbo\Tables\04\12\등수 매기는 함수.sql" />
+    <Build Include="중요\등수 매기는 함수.sql" />
+    <Build Include="중요\가상 뷰 테이블.sql" />
+    <Build Include="중요\Exists문 설명.sql" />
+    <Build Include="중요\Exec 명령어 동적 SQL문 실행.sql" />
+    <Build Include="중요\Case문.sql" />
+    <Build Include="중요\T-SQL 조건문.sql" />
+    <Build Include="중요\전체적인 T-SQL 정리.sql" />
+    <Build Include="dbo\Tables\03\03_22\문자열 함수.sql" />
+    <Build Include="dbo\Tables\03\03_23\날짜 관련 함수.sql" />
+    <Build Include="dbo\Tables\03\03_24\형식 변환 관련 함수.sql" />
+    <Build Include="dbo\Tables\03\03_25\시스템 함수.sql" />
+    <Build Include="중요\형식 변환 관련 함수.sql" />
+    <Build Include="중요\날짜 관련 함수.sql" />
+    <Build Include="중요\문자열 함수.sql" />
   </ItemGroup>
 </Project>

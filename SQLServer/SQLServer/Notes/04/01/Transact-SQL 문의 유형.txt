@@ -1,0 +1,24 @@
+Transact-SQL 문의 유형
+
+DDL(데이터 정의 언어) 문
+  -데이터베이스 개체 정의
+	-Create object_Name
+	-Alter  object_Name
+	-Drop   object_Name
+  -적절한 사용 권한이 있어야 함
+
+DCL(데이터 제어 언어) 문
+  -사용 권한 설정 또는 변경
+	-Grant  설정
+	-Deny   거부
+	-Revoke 취소
+  -적절한 사용 권한이 있어야함
+  -SSMS로 이용함
+
+DML(데이터 조작 언어) 문
+  -DML문을 사용하여 데이터를 변경하거나 정보 검색
+	-Select 조회,출력
+	-Insert 입력
+	-Update 수정
+	-Delete 삭제
+  -적절한 사용 권한이 있어야함
