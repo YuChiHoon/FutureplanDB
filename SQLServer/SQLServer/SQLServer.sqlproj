@@ -61,7 +61,6 @@
     <Folder Include="dbo\Tables" />
     <Folder Include="dbo\Views" />
     <Folder Include="dbo\Stored Procedues" />
-    <Folder Include="Demos" />
     <Folder Include="Notes" />
     <Folder Include="dbo\Tables\01" />
     <Folder Include="dbo\Tables\02" />
@@ -134,6 +133,8 @@
     <Folder Include="dbo\Tables\03\03_23" />
     <Folder Include="dbo\Tables\03\03_24" />
     <Folder Include="dbo\Tables\03\03_25" />
+    <Folder Include="JavaScript" />
+    <Folder Include="JavaScript\Js" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Notes\01\01_10\01_10화_SQL Server에서 반드시 알아야 할 사항 10가지.txt" />
@@ -153,6 +154,15 @@
     <None Include="Notes\02\02_14\SQL 구문 DDL_DML.txt" />
     <None Include="Notes\04\11\가상 테이블 뷰.txt" />
     <None Include="Notes\04\01\Transact-SQL 문의 유형.txt" />
+    <None Include="JavaScript\01_03_자바스크립트삽입.html" />
+    <None Include="JavaScript\01_02_자바스크립트의시작.html" />
+    <None Include="JavaScript\01_04_자바스크립코드분리.htm" />
+    <None Include="JavaScript\Js\01_04_Alert.js" />
+    <None Include="JavaScript\01_05_태그내에자바스크립트정의.htm" />
+    <None Include="JavaScript\01_06_자바스크립트작성시주의할점.htm" />
+    <None Include="JavaScript\01_07_자바스크립트_기본_4가지용어.txt" />
+    <None Include="JavaScript\01_07_객체속성메서드이벤트사용.htm" />
+    <None Include="JavaScript\01_08_기본출력문.htm" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\01\01_07\Questions.sql" />
