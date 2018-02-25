@@ -1,0 +1,48 @@
+<script language="javascript" type="text/javascript">
+    // 1부터 100까지 짝수의 합 : for문 사용
+    //Input
+    var sum1 = 0;
+    //Process
+    for (var i = 1; i <= 100; i++)
+    {
+        if (i % 2 == 0)
+        {
+            sum1 += i;
+        }
+    }
+    //Output
+    document.write(sum1 + "<br/>");
+</script>
+<hr/>
+
+<script language="javascript" type="text/javascript">
+    // 1부터 100까지 짝수의 합 : while문 사용
+    var sum2 = 0;
+    var j = 1;                      // 초기식
+    while (j <= 100)                // 조건식
+    {
+        if (j % 2 == 0)
+        {
+            sum2 += j;
+        }
+        j++;                        // 증감식
+    }
+    document.write(sum2 + "<br/>");
+</script>
+<hr/>
+
+<script language="javascript" type="text/javascript">
+    // 1부터 100까지 짝수의 합 : do문 사용
+    var sum3 = 0;
+    var k = 1;                      // 초기식
+    do
+    {
+        if (k % 2 == 0)
+        {
+            sum3 += k;
+        }
+        k++;                        // 증감식
+    } while (k <= 100);                 // 조건식
+
+    document.write(sum3 + "<br/>");
+</script>

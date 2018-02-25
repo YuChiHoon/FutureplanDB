@@ -1,0 +1,26 @@
+<script language="javascript" type="text/javascript">
+    // ++ 연산자 : 변수의 값을 1증가
+    // -- 연산자 : 변수의 값을 1감소
+    // 전위 : ++/-- 연산자가 변수 앞에 오면 우선 증가/감소
+    // 후위 : ++/-- 연산자가 변수 뒤에 오면 해당 라인 실행 후 나중 실행
+
+    var a = 3;
+    var b = 5;
+
+    var c = ++a - --b;
+    //(3+1) - (5-1)
+
+    document.write("a : " + a + " b : " + b + " c : " + c + "<br/>");      //4, 4, 0
+    a = 3;
+    b = 5;
+    c = a++ - b--;
+
+    document.write("a : " + a + " b : " + b + " c : " + c + "<br/>");       //4, 4, -2
+
+    a = 3;
+    b = 5;
+    c = 7;
+    var d = a-- - --b % ++c;    //전위증감 -> 산술 -> 결과값 ->후위증감
+
+    document.write("a : " + a + " b : " + b + " c : " + c + " d : " + d + "<br/>");     //2, 4, 8, -1
+</script>

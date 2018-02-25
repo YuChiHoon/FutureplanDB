@@ -163,6 +163,25 @@
     <None Include="JavaScript\01_07_자바스크립트_기본_4가지용어.txt" />
     <None Include="JavaScript\01_07_객체속성메서드이벤트사용.htm" />
     <None Include="JavaScript\01_08_기본출력문.htm" />
+    <None Include="JavaScript\01_09_1~8_복습.htm" />
+    <None Include="JavaScript\01_10_변수선언초기화참조.htm" />
+    <None Include="JavaScript\01_12_산술연산자.htm" />
+    <None Include="JavaScript\01_13_관계연산자.htm" />
+    <None Include="JavaScript\01_14_논리연산자.htm" />
+    <None Include="JavaScript\01_15_조건연산자.htm" />
+    <None Include="JavaScript\01_16_증감연산자.htm" />
+    <None Include="JavaScript\01_17_대입연산자.htm" />
+    <None Include="JavaScript\01_18_연산자우선순위.htm" />
+    <None Include="JavaScript\01_19_대화상자.htm" />
+    <None Include="JavaScript\01_20_조건문.htm" />
+    <None Include="JavaScript\01_21_선택문.htm" />
+    <None Include="JavaScript\01_22_구간반복.htm" />
+    <None Include="JavaScript\01_23_구구단.htm" />
+    <None Include="JavaScript\01_24_구구단확장.htm" />
+    <None Include="JavaScript\01_25_짝수의합.htm" />
+    <None Include="JavaScript\01_26_조건반복.htm" />
+    <None Include="JavaScript\01_27_실행반복.htm" />
+    <None Include="JavaScript\01_28_반복문비교.htm" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\01\01_07\Questions.sql" />
